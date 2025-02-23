@@ -1,0 +1,8 @@
+total_loss
+content_loss
+patch_loss
+dir_loss
+tv_loss
+diff_loss
+clip_loss
+diff_clf_loss
